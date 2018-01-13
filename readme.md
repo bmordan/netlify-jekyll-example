@@ -16,3 +16,17 @@ Now you can visit: `http://localhost:4000` and see the site.
 ## Social
 
 I have used [addThis.com](http://addthis.com)
+
+## Calendars
+
+I embedded a selection of Google calendars
+
+## Form Handling
+
+This is handled by Netlify.
+
+## CMS
+
+The live site is [here](https://stupefied-galileo-6dfad7.netlify.com/)
+
+and the admin panel is [here/admin](https://stupefied-galileo-6dfad7.netlify.com/admin)
