@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: My First Cat Post
 permalink: my-first-cat-post
 ---
