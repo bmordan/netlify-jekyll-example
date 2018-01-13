@@ -1,0 +1,8 @@
+title: 'Cats Forum'
+subtitle: 'Find and share images and videos of your internet cats'
+
+markdown: kramdown
+
+kramdown:
+  hard_wrap: true
+  input: GFM
