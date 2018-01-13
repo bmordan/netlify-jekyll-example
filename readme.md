@@ -23,10 +23,14 @@ I embedded a selection of Google calendars
 
 ## Form Handling
 
-This is handled by Netlify.
+This is handled by Netlify. To view your messages visit the `Forms` section.
 
 ## CMS
 
 The live site is [here](https://stupefied-galileo-6dfad7.netlify.com/)
 
 and the admin panel is [here/admin](https://stupefied-galileo-6dfad7.netlify.com/admin)
+
+## Deployment
+
+https://app.netlify.com all the tooling is here.
