@@ -24,6 +24,6 @@ Videos and podcasts are available.
 
 <p><a href="https://vimeo.com/213273635">Smashing the Stained Glass Ceiling at Women of the World Festival</a> from <a href="https://vimeo.com/christianmuslimforum">Christian Muslim Forum</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## This one shows Christian and Muslim women talking about gender justice.
+## This one shows <span style="color: red;">Christian</span> and <span style="color: green;">Muslim</span> women talking about gender justice.
 
 Pdf [here ](<https://stupefied-galileo-6dfad7.netlify.com/images/uploads/directions to lambeth palace.pdf>)- read all about it!
