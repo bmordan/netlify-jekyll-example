@@ -2,7 +2,7 @@
 layout: post
 title: Siriol visits London
 ---
-On Friday 19 January, Siriol will be visiting South London.
+On Friday 19 January, <span style="color: hotpink;">Siriol</span> will be visiting South London.
 
 ![Siriol visits South London](/images/uploads/b0ke3l4cyaayst7.jpg)
 
